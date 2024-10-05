@@ -8,7 +8,7 @@
 <img align="center" alt="" src="">
 
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia. Atualmente estudo Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia. Atualmente estudo Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
